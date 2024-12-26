@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Epilogue";
+  src: local("Epilogue"), url("./assets/Epilogue/Epilogue-VariableFont_wght.ttf") format("truetype");
+}
